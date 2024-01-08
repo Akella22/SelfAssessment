@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
   - async function
   - call
   - bind
   - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
   - generator
   - iterator
   - async generator
   - async iterator
-  - chaining
+  - chaining: 🎓 known
   - optional chaining
-  - IIFE
+  - IIFE: 🖐️ used
   - global
   - globalThis
   - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
+  - getters and setters: 🖐️ used
+  - __proto__: 🖐️ used
+  - prototype: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
   - bitwise operators
-  - ternary operator
+  - ternary operator: 🖐️ used
   - void
   - yield
   - await
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - throw: 🎓 known
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🎓 known
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
-  - extend
+  - extend: 🎓 known
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
