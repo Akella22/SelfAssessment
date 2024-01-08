@@ -4,10 +4,10 @@
   - Object: 🖐️ used
   - this: 🖐️ used
   - arrow function: 🖐️ used
-  - async function
-  - call
-  - bind
-  - apply
+  - async function: 🎓 known
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🎓 known
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
@@ -20,7 +20,7 @@
   - chaining: 🎓 known
   - optional chaining
   - IIFE: 🖐️ used
-  - global
+  - global: 🎓 known
   - globalThis
   - window
   - getters and setters: 🖐️ used
@@ -32,7 +32,7 @@
   - ternary operator: 🖐️ used
   - void
   - yield
-  - await
+  - await: 🎓 known
   - template literal
   - strict mode: 🖐️ used
   - delete: 🖐️ used
@@ -47,7 +47,7 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await
+  - for await: 🎓 known
   - throw: 🎓 known
   - break: 🖐️ used
   - continue: 🖐️ used
@@ -76,13 +76,13 @@
   - null: 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers: 🎓 known
   - EventEmitter
-  - RegExp
+  - RegExp: 🎓 known
   - Date: 🎓 known
   - BigInt: 🎓 known
 - Infrastructure
-  - V8
+  - V8👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

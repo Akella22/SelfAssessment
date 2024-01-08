@@ -8,13 +8,13 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap
+  - heap: 👂 heard
   - function: 🖐️ used
   - procedure: 🖐️ used
   - method: 🖐️ used
   - class: 🖐️ used
   - prototype: 🖐️ used
-  - event
+  - event: 🎓 known
   - type
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
@@ -24,7 +24,7 @@
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
-  - regular expression
+  - regular expression: 🎓 known
   - interface
   - contract
   - module
@@ -38,15 +38,15 @@
   - side effects
   - closure: 🎓 known
   - partial application: 🎓 known
-  - curry
-  - higher order
-  - recursion
+  - curry: 👂 heard
+  - higher order: 👂 heard
+  - recursion: 🎓 known
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose
-  - pipe
-  - memoize
-  - wrapper
+  - compose: 👂 heard
+  - pipe: 👂 heard
+  - memoize: 👂 heard
+  - wrapper: 👂 heard
   - functor
   - monad
   - monoid
@@ -72,7 +72,7 @@
   - deque
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator
+  - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization: 🎓 known
@@ -80,26 +80,26 @@
 - Process & style
   - compiler: 🎓 known
   - transpiler
-  - linter
+  - linter: 🎓 known
   - polyfill
   - debugger: 🎓 known
   - garbage collection: 🎓 known
   - refactoring: 🎓 known
   - code review: 🎓 known
   - antipatterns: 🎓 known
-  - paradigm
+  - paradigm: 🎓 known
   - algorithm: 🎓 known
   - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity: 🎓 known
-  - decomposition
-  - spaghetti
-  - silver bullet
+  - decomposition: 🖐️ used
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
   - not invented here: 🎓 known
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🎓 known
   - return early: 🖐️ used
   - unittest
   - git: 🖐️ used
